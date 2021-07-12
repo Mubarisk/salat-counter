@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salat-counter/static/css/main.7d6c4622.chunk.css",
+    "main.js": "/salat-counter/static/js/main.cc981396.chunk.js",
+    "main.js.map": "/salat-counter/static/js/main.cc981396.chunk.js.map",
+    "runtime-main.js": "/salat-counter/static/js/runtime-main.14dcf953.js",
+    "runtime-main.js.map": "/salat-counter/static/js/runtime-main.14dcf953.js.map",
+    "static/js/2.0c4b1bec.chunk.js": "/salat-counter/static/js/2.0c4b1bec.chunk.js",
+    "static/js/2.0c4b1bec.chunk.js.map": "/salat-counter/static/js/2.0c4b1bec.chunk.js.map",
+    "static/js/3.8761a9fe.chunk.js": "/salat-counter/static/js/3.8761a9fe.chunk.js",
+    "static/js/3.8761a9fe.chunk.js.map": "/salat-counter/static/js/3.8761a9fe.chunk.js.map",
+    "index.html": "/salat-counter/index.html",
+    "static/css/main.7d6c4622.chunk.css.map": "/salat-counter/static/css/main.7d6c4622.chunk.css.map",
+    "static/js/2.0c4b1bec.chunk.js.LICENSE.txt": "/salat-counter/static/js/2.0c4b1bec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14dcf953.js",
+    "static/js/2.0c4b1bec.chunk.js",
+    "static/css/main.7d6c4622.chunk.css",
+    "static/js/main.cc981396.chunk.js"
+  ]
+}
