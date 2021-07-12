@@ -137,7 +137,7 @@ function Home() {
   return (
     <div className="home">
       <div className="header">
-        <h3 className="head">Khalaah Reminder</h3>
+        <h3 className="head">Khalaah Reminder 🕌</h3>
       </div>
       <div className="body">
         <table>
